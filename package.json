@@ -1,0 +1,28 @@
+{
+  "name": "crsdoll",
+  "version": "0.2.0",
+  "description": "Create your own doll on iirose",
+  "main": "index.js",
+  "scripts": {
+    "test": "set NODE_ENV=test&&node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xviimoon/crsdoll.git"
+  },
+  "keywords": [
+    "iirose",
+    "bot",
+    "doll",
+    "AI"
+  ],
+  "author": "crystal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xviimoon/crsdoll/issues"
+  },
+  "homepage": "https://github.com/xviimoon/crsdoll#readme",
+  "dependencies": {
+    "ws": "^7.4.3"
+  }
+}
